@@ -6,5 +6,9 @@ namespace ClassLibrary1
     {
         //random stuff
         //more thingsjdfjksalfa;ljfklsa;
+        public void foo()
+        {
+
+        }
     }
 }
